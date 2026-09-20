@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm a Creative Sr. Android & Flutter Application Developer with around 9 Years of experience managing all aspects of the development process.
+Hi! I'm a Creative Sr. Android & Flutter Application Developer with around 10 Years of experience managing all aspects of the development process.
 
 
 ## 🌐 Socials:
