@@ -1,27 +1,86 @@
-# 💫 About Me:
-Hi! I'm a Creative Sr. Android & Flutter Application Developer with around 10 Years of experience managing all aspects of the development process.
+<div align="center">
 
+<a href="https://www.abhikr.com/"><img src="assets/abhikr-logo-full.svg" alt="ABHIKR · Abhishek Kumar" width="380"></a>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/logtoabhikr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/logtoabhikr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/logtoabhikr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/logtoabhikr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@logtoabhikr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:logtoabhikr@gmail.com) 
+### Lead Android Engineer · Noida, India
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=logtoabhikr&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=logtoabhikr&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=logtoabhikr&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I lead Android architecture for enterprise apps that can't afford to crash:<br>
+logistics, healthcare and automotive, at global scale.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=logtoabhikr&theme=blue-green&no-frame=true&no-bg=true&margin-w=4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abhikr.com-00BCD4?style=flat-square&labelColor=0F1518)](https://www.abhikr.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-logtoabhikr-00BCD4?style=flat-square&logo=linkedin&logoColor=white&labelColor=0F1518)](https://www.linkedin.com/in/logtoabhikr/)
+[![Résumé](https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-00BCD4?style=flat-square&labelColor=0F1518)](https://www.abhikr.com/assets/Abhishek_Kumar_Resume.pdf)
+[![Email](https://img.shields.io/badge/Email-logtoabhikr%40gmail.com-00BCD4?style=flat-square&logo=gmail&logoColor=white&labelColor=0F1518)](mailto:logtoabhikr@gmail.com)
+[![Claude Certified Developer](https://img.shields.io/badge/Claude_Certified_Developer-Foundations-00BCD4?style=flat-square&logo=anthropic&logoColor=white&labelColor=0F1518)](https://www.credly.com/badges/2f924b01-ab8a-40fc-b513-c6aba5da44d2)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=logtoabhikr&limit=5&theme=default&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=logtoabhikr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### At a glance
+
+| **10 yrs** | **3.6s → 1.6s** | **−28%** | **99.5%+** | **5** |
+|:---:|:---:|:---:|:---:|:---:|
+| Android, one platform | Cold start after Compose migration | UI jank, Perfetto-profiled | Crash-free users, sustained | Android engineers mentored |
+
+**Now:** IT Analyst & Lead Android Developer at **Tata Consultancy Services**, owning mobile architecture and Android delivery for PostNord, Horizon Blue and Tata Motors.<br>
+**Open to:** Senior, Staff and Principal Android roles · India, UK, Europe or remote.
+
+### How I work
+
+- **Architecture.** MVVM and Clean Architecture standards across multi-module codebases. Domain stays pure Kotlin, and module boundaries follow the work.
+- **Performance.** Perfetto traces are a release gate. Large-scale Jetpack Compose adoption took cold start from 3.6s to 1.6s and cut UI jank by 28%.
+- **Delivery.** GitHub Actions pipelines with tests, detekt and ktlint gates. Regression defects dropped 25% after the gates went in.
+- **Accessibility.** WCAG 2.0 certified for mobile and tested with TalkBack. On PostNord, accessibility went from about 10% to about 90%.
+- **Leadership.** Five Android engineers mentored; pull-request turnaround down 30%. Primary technical contact for product, backend and QA.
+
+### Featured work
+
+| Project | What it shows |
+|---|---|
+| [**AF-Bookings**](https://github.com/logtoabhikr/AF-Bookings-Case) · [case study](https://www.abhikr.com/af-bookings-case-study.html) | Open-source itinerary app: Kotlin 2.3, Compose Material 3, Hilt, Flow. Sealed segment models in a pure-Kotlin domain, three Gradle modules, custom-drawn timeline. |
+| [**WeatherApp**](https://github.com/logtoabhikr/WeatherApp-Android-Multi-Module-Clean-Architecture-Compose-Kotlin-Hilt-Flow-Retrofit-Coil-Unit-Test) | Multi-module Clean Architecture reference with Compose, Hilt, Flow, Retrofit, Coil and unit tests. |
+| [Compose at scale](https://www.abhikr.com/compose-migration-case-study.html) | Enterprise Compose migration without a performance regression (PostNord, Tata Motors). |
+| [PostNord Track & Send](https://www.abhikr.com/postnord-case-study.html) | Accessibility at scale, delivered three months on-site in Sweden. |
+| [Air France Flying Blue+](https://www.abhikr.com/air-france-case-study.html) | Delivery on a live loyalty app: MVVM over Compose and XML, Kotlin Multiplatform logic. |
+
+Client work is under NDA, so the case studies lead with the constraint, the decision and the result. [All shipped projects →](https://www.abhikr.com/projects.html)
+
+### Tech stack
+
+![Kotlin](https://img.shields.io/badge/Kotlin-0F1518?style=flat-square&logo=kotlin&logoColor=00BCD4)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0F1518?style=flat-square&logo=jetpackcompose&logoColor=00BCD4)
+![Android](https://img.shields.io/badge/Android-0F1518?style=flat-square&logo=android&logoColor=00BCD4)
+![Flutter](https://img.shields.io/badge/Flutter-0F1518?style=flat-square&logo=flutter&logoColor=00BCD4)
+![Dart](https://img.shields.io/badge/Dart-0F1518?style=flat-square&logo=dart&logoColor=00BCD4)
+![Gradle](https://img.shields.io/badge/Gradle-0F1518?style=flat-square&logo=gradle&logoColor=00BCD4)
+![Firebase](https://img.shields.io/badge/Firebase-0F1518?style=flat-square&logo=firebase&logoColor=00BCD4)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F1518?style=flat-square&logo=githubactions&logoColor=00BCD4)
+
+- **Android:** Kotlin, Jetpack Compose, XML views, Wear OS, Coroutines, Flow, Hilt, Room, WorkManager, Retrofit, OkHttp, Paging 3, Navigation
+- **Architecture:** Clean Architecture, MVVM, MVI/UDF, modularization, SOLID, Kotlin Multiplatform
+- **Quality:** JUnit, Mockito, Espresso, Perfetto, baseline profiles, Firebase Crashlytics, detekt, ktlint
+- **Security:** SSL pinning, R8/ProGuard, root detection, OWASP awareness
+- **Cross-platform & AI:** Flutter, Dart, generative AI tooling in the delivery workflow
+
+### Certifications & recognition
+
+- **Claude Certified Developer - Foundations** · Anthropic, 2026 · [verify on Credly](https://www.credly.com/badges/2f924b01-ab8a-40fc-b513-c6aba5da44d2)
+- **WCAG 2.0 Accessibility for Mobile Apps** · TCS, 2026
+- **Generative AI & AI Fundamentals** · LinkedIn, TCS, 2025
+- **Hackathon Winner & Service Award** · Tata Consultancy Services, 2025
+- **Arctic Code Vault Contributor** · GitHub, 2020
+
+### Writing
+
+- [Making complex mobile experiences feel simple](https://www.linkedin.com/pulse/lets-talk-making-complex-mobile-experiences-feel-simple-kumar-x72fc) · LinkedIn, April 2026
+
+---
+
+<div align="center">
+
+**Let's build something that holds up.** [logtoabhikr@gmail.com](mailto:logtoabhikr@gmail.com) · [www.abhikr.com](https://www.abhikr.com/)
+
+<sub>Also on [X](https://x.com/logtoabhikr) · [YouTube](https://youtube.com/@logtoabhikr) · [Instagram](https://instagram.com/logtoabhikr) · [Facebook](https://facebook.com/logtoabhikr)</sub>
+
+</div>
